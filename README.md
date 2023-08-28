@@ -1,6 +1,7 @@
 --Added as part of second commit
 --Added as part of third commit to test webhook
 --Added as part of fourth commit to test webhook
+--Added as part of fifth commit to test local
 
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
